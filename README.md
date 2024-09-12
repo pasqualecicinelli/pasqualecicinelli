@@ -14,6 +14,7 @@ I'm Pasquale, an enthusiastic junior full-stack web developer on a mission: turn
   - Backend: PHP, Laravel, MySQL
   - Tools: Git (proficient in Git workflows)
 - 📫 Let's Connect:
+  - 🕸 Portfolio: [Portfolio](https://pasqualecicinelli-portfolio.infinityfreeapp.com/)
   - 📷 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/pasquale-cicinelli-64885b174/)
 - 🌱 Always Growing:
 I'm excited about the endless possibilities in the tech world, and I'm committed to learning and growing every day. Let's collaborate, innovate, and build amazing things together! 🚀
